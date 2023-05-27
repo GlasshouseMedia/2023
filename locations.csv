@@ -1,0 +1,29 @@
+Location Address,"
+Start Time",Flexibility,"Booking Length
+(Minutes)",Photo/FP?,Drone?,Video?,3D?,Revenue Generated
+"22 WILDWOOD ROAD, Stow MA",10:00 AM,No Flexibility,150,YES,NO,NO,YES,$388
+"585 Revere Beach Pkwy - Unit 408, Revere MA",10:00 AM,No Flexibility,90,YES,YES,NO,NO,$518
+"134 Oak St, Ashland MA",10:30 AM,No Flexibility,60,YES,NO,NO,NO,$468
+"37 Casey Way, Attleboro MA",10:30 AM,No Flexibility,120,YES,YES,NO,NO,$508
+"78 North Street, Andover MA",11:00 AM,No Flexibility,60,YES,NO,NO,NO,$209
+"19 Brahman Drive, Norton MA",11:00 AM,No Flexibility,60,YES,NO,NO,NO,$209
+"424 Charles St, Malden MA",11:00 AM,No Flexibility,90,YES,NO,NO,NO,$299
+"57 Wachusett St Unit 1, Jamaica Plain MA",11:00 AM,+/- 30,60,YES,NO,NO,NO,$264
+"12 Tayler, west bridgewater MA",11:00 AM,No Flexibility,60,YES,NO,NO,NO,$169
+"56 Wildwood Ave, East Bridgewater MA",11:00 AM,No Flexibility,60,YES,NO,NO,NO,$269
+"196 West 6th Street, South Boston MA",11:30 AM,+/- 30,60,YES,NO,NO,NO,$254
+"45 South Main St, Burrillville RI",12:00 PM,No Flexibility,60,YES,NO,NO,NO,$239
+"10 Cobb Lane, Foxboro MA",12:00 PM,Flexible All Day,90,YES,NO,NO,NO,$289
+"4 Lantern Lane, Medway MA",12:30 PM,+/- 30,60,YES,NO,NO,NO,$234
+"903 Old Bridge Lane , Bellingham MA", 1:00 PM,No Flexibility,60,YES,NO,NO,NO,$197
+"35 School Street, Plainville MA", 1:00 PM,No Flexibility,60,YES,NO,NO,NO,$169
+"8 Azalea Lane, Peabody MA", 1:00 PM,No Flexibility,120,YES,YES,NO,NO,$558
+"241 Perkins St Unit B302, Jamaica Plain MA", 1:00 PM,No Flexibility,90,YES,YES,NO,NO,$458
+"5 Cranberry Ln, Kennebunk ME", 1:00 PM,No Flexibility,180,YES,NO,YES,NO,$857
+"23 Hattie Lane, Millis MA", 2:30 PM,No Flexibility,90,YES,NO,NO,NO,$359
+", ",,,,,,,,
+", ",,,,,,,,
+", ",,,,,,,,
+", ",,,,,,,,
+", ",,,,,,,,
+", ",,,,,,,,
